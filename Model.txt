@@ -1,0 +1,65 @@
+                                                   Text sentiment
+0     So there is no way for me to plug it in here i...         0
+1                           Good case, Excellent value.         1
+2                                Great for the jawbone.         1
+3     Tied to charger for conversations lasting more...         0
+4                                     The mic is great.         1
+5     I have to jiggle the plug to get it to line up...         0
+6     If you have several dozen or several hundred c...         0
+7           If you are Razr owner...you must have this!         1
+8                   Needless to say, I wasted my money.         0
+9                      What a waste of money and time!.         0
+10                      And the sound quality is great.         1
+11    He was very impressed when going from the orig...         0
+12    If the two were seperated by a mere 5+ ft I st...         0
+13                             Very good quality though         1
+14    The design is very odd, as the ear "clip" is n...         0
+15    Highly recommend for any one who has a blue to...         1
+16                  I advise EVERYONE DO NOT BE FOOLED!         1
+17                                     So Far So Good!.         1
+18                                        Works great!.         1
+19    It clicks into place in a way that makes you w...         0
+20    I went on Motorola's website and followed all ...         0
+21    I bought this to use with my Kindle Fire and a...         1
+22             The commercials are the most misleading.         0
+23    I have yet to run this new battery below two b...         1
+24    I bought it for my mother and she had a proble...         0
+25                 Great Pocket PC / phone combination.         1
+26    I've owned this phone for 7 months now and can...         1
+27    I didn't think that the instructions provided ...         0
+28    People couldnt hear me talk and I had to pull ...         0
+29                                 Doesn't hold charge.         0
+...                                                 ...       ...
+9970  I buy this product to make some vegan milk soa...         0
+9971  the Product description on Amazon's web site s...         0
+9972  I spend 5 year study canine nutrition and it b...         0
+9973  I have use the Cutter spay for several year an...         0
+9974  this product have to be one of the most frustr...         0
+9975  the product might work if I could get it to sp...         0
+9976  Cutter backyard change the formula now it suck...         0
+9977  this be a Godsend a few year back today the di...         0
+9978  the plastic connector keep pop off my hose I b...         0
+9979  I do not know how well the insecticide itself ...         0
+9980  I should have know better and heed the advice ...         0
+9981  I use the spray for about 10 15 minute and not...         0
+9982  hook it up and only water come out of the spra...         0
+9983  the first one of these I try last year work fi...         0
+9984  the folk behind Cutter Backyard bug control mu...         0
+9985  absolute garbage Unfortunaltely zero star be n...         0
+9986  as with other reviewer I get so far then Cutte...         0
+9987  Cutter 32 oz backyard bug control Spray Concen...         0
+9988  I purchase this product to spray the yard and ...         0
+9989  this product use to work in past year but now ...         0
+9990  use for several year kill ingredient for mosqu...         0
+9991  I highly recommend that everyone buy a bottle ...         0
+9992  I experience the same disappointment that mult...         0
+9993  good exercise but other than that a waste of t...         0
+9994  I purchase this product awhile back and try to...         0
+9995  similar to other review I purchase several of ...         0
+9996  I regret I do not read these review before I p...         0
+9997  this ready to spray bottle from Cutter be to p...         0
+9998  I think stuff have make we mosquito problem ev...         0
+9999  I purchase this bug spray because on the cover...         0
+
+[10000 rows x 2 columns]
+0.7853
