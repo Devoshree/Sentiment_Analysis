@@ -31,6 +31,7 @@ def review_to_words(raw_review):
     meaningful_words=[w for w in words if not w in negation ]
     return (" ".join (meaningful_words))
 
+# function for preprocesssing
 def review_text(raw_review):
     tex=BeautifulSoup(raw_review,"lxml")
     letters_only=re.sub("[^a-zA-Z]",
@@ -99,6 +100,9 @@ tpp=0
 tnp=0
 
 negation=["not","doesn't","didn't","neither","don't"]
+
+# Algorithm to implement the Naive Bayes' classifier without using the inbuilt function..................
+
 for i in xrange(0, length):
     res_neg=0
     res_pos=0
@@ -130,14 +134,19 @@ for i in xrange(0, length):
     elif tnp>tpp:
         result.append('0')
 print len(result)
+
+# preparing the result...;)
+
 final = pd.DataFrame( data={"Text":test["Text"],"sentiment":result})
 final.to_csv('Model.csv')
 print accuracy_score(result, test["sentiment"])
+
+# to create the text file 
 import sys
 f = open("Model.txt", 'w')
 sys.stdout = f
 print final
-print accuracy_score(result, test["sentiment"])
+print accuracy_score(result, test["sentiment"]) # Accuracy_prediction
 f.close()
 
 
